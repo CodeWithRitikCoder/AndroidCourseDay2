@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project 2 of Android Course With Saumya Singh- Theme Changing Application</string>
+    <string name="theme_changing_application">Theme Changing Application!</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="read_mode">Read Mode</string>
+</resources>
