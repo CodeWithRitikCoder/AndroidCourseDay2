@@ -1,5 +1,5 @@
 # AndroidCourseDay2
-Day 2 of My Android Course.
+Day-2 of Android Course:- How to chage themes clicking on the buttons.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
